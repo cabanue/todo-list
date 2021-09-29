@@ -4,4 +4,5 @@ module.exports = {
     title: "TODO List",
   },
   plugins: [],
+  pathPrefix: "/~cabanue/todo-list",
 };
